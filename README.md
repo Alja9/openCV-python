@@ -5,8 +5,6 @@
 
 An experiment to make a simple project with openCV python
 
-<i>There are several files that contain a mixture of languages such as English and Indonesian or just one of them</i>
-
 My reference:
 
 1. [pyimagesearch.com](https://www.pyimagesearch.com/)

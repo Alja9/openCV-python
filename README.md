@@ -12,3 +12,10 @@ My reference:
 1. [murtazahassan.com](https://www.murtazahassan.com/)
 
 1. [OpenCV python-docs](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_tutorials.html)
+
+## My concentration on this project:
+- Face Recognition
+- Object Detection
+- Image Recognition
+- Gesture Recognition
+- Fraud Recognition

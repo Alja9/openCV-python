@@ -7,6 +7,8 @@ Make text character recognition using the python package, namely [pytesseract](h
 - After that, check in your command prompt with this ```tesseract -v``` (<i>Result: show tesseract version</i>).
 - Next, install pytesseract packages with this ```pip install pytesseract```.
 - Done it. See more setting in my code file, there are some comments that are considered for setting up the tesseract so that it can run.
+
+
 For more information check:
 1. [pyimagesearch](https://www.pyimagesearch.com/2017/07/03/installing-tesseract-for-ocr/)
 1. [tesseract-OCR github](https://github.com/tesseract-ocr/tessdata)

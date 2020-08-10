@@ -17,5 +17,3 @@ My reference:
 - Face Recognition
 - Object Detection
 - Image Recognition
-- Gesture Recognition
-- Fraud Recognition
